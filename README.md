@@ -10,4 +10,4 @@
 - Pre_Season_Batter : Batter's record data of KBO on pre-season
 - Reqular_Season_Batter : Batter's record data of KBO on reqular-season
 - titanic_train : Titanic passengers data
-- nfl_offensive_stats : nfl offensive stats data in 2019-2022
+- nfl_offensive_stats : nfl offensive stats data for 2019-2022
